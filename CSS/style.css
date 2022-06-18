@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: #fff;
+}
+textarea {
+    color: initial;
+    display: inline-block;
+    background-color: white;
+    resize: auto;
+    cursor: text;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    font: 400 13.3333px Arial;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(169, 169, 169);
+    padding: 2px;
+}
+
+.photo {
+    display: inline-flex;
+    margin: -35px 25px 150px 150px;
+    width: 150px;
+    height: 220px;
+    float: left;
+}
+
+.panel {
+    color: #fff;
+    text-decoration: none;
+}
+
+body {
+    background: #8A7885;
+}
+
+.text {
+    color: #fff;
+    font-family: 'Times mew Roman';
+    font-size: 34px;
+}
+
+.text-designer {
+    color: #fff;
+    font-size: 24px;
+    font-family: 'Times mew Roman';
+}
+
+.post-anonce {
+    margin: 50px;
+    padding: 50px;
+    background: #BD4687;
+    border-radius: 15px;
+    max-width: 250px;
+    max-height: 200px;
+    margin-right: 250px;
+    padding-right: 50px;
+}
+
+.btn-next {
+    position: flex;
+    padding: 3px;
+    text-decoration: none;
+    background: #BDAF6B;
+    border-radius: 6px;
+    margin-left: 150px;
+}
+
+.btn {
+    position: flex;
+    padding: 3px;
+    text-decoration: none;
+    background: #BD4687;
+    border-radius: 6px;
+    margin-left: 150px;
+}
+
+.rast {
+    margin: 10px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+}
+
+.header {
+    display: flex;
+    height: 45px;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #BB71F0;
+    color: #fff;
+    font-family: 'Uni Sans';
+}
+
+.header__section {
+    display: flex;
+    align-items: center;
+}
+
+.header__item {
+    padding: 10px, 15px;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.header__item:hover {
+    background-color: #ff9900;
+    border-radius: 3px;
+}
+
+.headerlogo {
+    font-weight: bold;
+}
+
+.headerButton {
+    cursor: pointer;
+}
+
+
+.features {
+    float: left;
+    color: white;
+    margin-top: 50px;
+    text-align: left;
+    width: 45%;
+}
+
+.features h1 {
+    font-size: 50px;
+}
+
+.features {
+    max-width: 800px;
+    margin: 20px 32%;
+}
+
+.alert-warning {
+    float: left;
+    clear: both;
+    width: 100px;
+    margin: auto 59%;
+    text-align: left;
+}

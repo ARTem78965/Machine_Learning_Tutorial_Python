@@ -1,0 +1,19 @@
+.block{
+ margin: 50px;
+ padding: 55px;
+ background: #BDAF6B;
+ border-radius: 15px;
+ max-width: 10000px;
+ max-height: 100000000000px;
+ margin-left: auto;
+}
+
+.block-comment{
+ margin: 150px;
+ padding: 155px;
+ background: grey;
+ border-radius: 15px;
+ max-width: 100px;
+ max-height: 100px;
+ margin-left: auto;
+}
